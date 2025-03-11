@@ -6,6 +6,8 @@
 
 校对主要参考自本书的PDF版本，可能与https://learncodethehardway.org/c/有出入
 
+提交勘误：https://github.com/ye-rm/lcthw-zh
+
 # 笨办法学C 中文版
 
 来源：[Learn C The Hard Way](http://c.learncodethehardway.org/book/)
@@ -20,7 +22,8 @@
 
 > **一句 MMP 送给在座的各位程序正义垃圾。**
 
-下面链接为原译本的旧链接
+> 下面的链接为原译本的链接
+>
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/lcthw/details)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw)
