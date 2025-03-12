@@ -7,7 +7,7 @@
 你应该掌握了一个简单的C程序的结构，所以让我们执行下一步简单的操作，声明不同类型的变量。
 
 ```c
-include <stdio.h>
+#include <stdio.h>
 
 int main(int argc, char *argv[])
 {

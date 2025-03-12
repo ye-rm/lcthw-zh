@@ -3,6 +3,8 @@
 > 原文：[Exercise 2: Make Is Your Python Now](http://c.learncodethehardway.org/book/ex2.html)
 
 > 译者：[飞龙](https://github.com/wizardforcel)
+>
+> [ye-rm](https://github.com/ye-rm)在2025/3/12重校
 
 在Python中，你仅仅需要输入`python`，就可以运行你想要运行的代码。Python的解释器会运行它们，并且在运行中导入它所需的库和其它东西。C是完全不同的东西，你需要事先编译你的源文件，并且手动将它们整合为一个可以自己运行的二进制文件。手动来做这些事情很痛苦，在上一个练习中只需要运行`make`就能完成。
 
@@ -86,7 +88,7 @@ $ make clean
 Makefile:4: *** missing separator.  Stop.
 ```
 
-永远记住要缩进，以及如果你得到了像这种奇奇怪怪的错误，应该复查你是否都使用了 TAB 字符，由于一些make的变种十分挑剔。
+始终记得要缩进，如果遇到类似这样奇怪的错误，仔细检查你是否一直使用的是制表符（tab），因为有些`make`的变体对此要求非常严格。
 
 ## 附加题
 
