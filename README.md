@@ -4,7 +4,7 @@
 
 校对主要参考自本书的PDF版本，可能与https://learncodethehardway.org/c/有出入
 
-勘误：https://github.com/ye-rm/lcthw-zh
+勘误：[lcthw-zh](https://github.com/ye-rm/lcthw-zh)
 
 重校：[ye-rm](https://github.com/ye-rm)
 
